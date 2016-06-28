@@ -9,7 +9,7 @@ var urlpattern = /^http:\/\//i;
 
 var m3u8 = function (req, res) {
   fs.readFile(
-    '/volume1/web/cntv/channels.txt', {'encoding': 'utf-8','flag': 'r'},
+    'channels.txt', {'encoding': 'utf-8','flag': 'r'},
     function(err, data) {
     	var html = data.toString();
       html = html.replace(/{hostname}/g, address);
