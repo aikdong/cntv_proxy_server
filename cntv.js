@@ -76,6 +76,5 @@ app.get('/*.mp4', function (req, res) {
 var server = app.listen(proxy, function () {
   var host = server.address().address;
   var port = server.address().port;
-
   console.log('CNTV proxy running at http://%s:%s', host, port);
 });
