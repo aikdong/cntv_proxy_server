@@ -77,6 +77,6 @@ var server = app.listen(proxy, function () {
   var host = server.address().address;
   var port = server.address().port;
 
-
-  console.log('CNTV proxy running at http://%s:%s', address, port);
+  fs.writeFile("/tmp/cntv.pid", process.pid);
+  console.log('CNTV proxy running at http://%s:%s and pid write to /tmp/cntv.pid %d', address, port, process.pid);
 });
