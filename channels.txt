@@ -1,0 +1,330 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv1.jpg" group-title="1>CCTV", CCTV 1-综合
+http://{hostname}:{port}/cctv1.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv2.jpg" group-title="1>CCTV", CCTV 2-财经
+http://{hostname}:{port}/cctv2.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv3.jpg" group-title="1>CCTV", CCTV 3-综艺
+http://{hostname}:{port}/cctv3.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv4.jpg" group-title="1>CCTV", CCTV 4-中文国际
+http://{hostname}:{port}/cctv4.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv5.jpg" group-title="1>CCTV", CCTV 5-体育
+http://{hostname}:{port}/cctv5.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv6.jpg" group-title="1>CCTV", CCTV 6-电影
+http://{hostname}:{port}/cctv6.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv7.jpg" group-title="1>CCTV", CCTV 7-军事农业
+http://{hostname}:{port}/cctv7.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv8.jpg" group-title="1>CCTV", CCTV 8-电视剧
+http://{hostname}:{port}/cctv8.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv9.jpg" group-title="1>CCTV", CCTV 9-记录
+http://{hostname}:{port}/cctvjilu.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv10.jpg" group-title="1>CCTV", CCTV 10-科教
+http://{hostname}:{port}/cctv10.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv11.jpg" group-title="1>CCTV", CCTV 11-戏曲
+http://{hostname}:{port}/cctv11.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv12.jpg" group-title="1>CCTV", CCTV 12-社会与法
+http://{hostname}:{port}/cctv12.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv13.jpg" group-title="1>CCTV", CCTV 13-新闻
+http://{hostname}:{port}/cctv13.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv14.jpg" group-title="1>CCTV", CCTV 14-少儿
+http://{hostname}:{port}/cctvchild.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv15.jpg" group-title="1>CCTV", CCTV 15-音乐
+http://{hostname}:{port}/cctv15.mp4
+
+#EXTINF:-1 tvg-logo="http://blogs.nottingham.ac.uk/chinesestudies/files/2014/11/CCTV-Logo.jpg" group-title="1>CCTV", CCTV NEWS
+http://{hostname}:{port}/cctv9.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv5+.jpg" group-title="1>CCTV", CCTV 5-体育+
+http://{hostname}:{port}/cctv5plus.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/ahws.jpg" group-title="2>CN卫视", 安徽卫视
+http://{hostname}:{port}/anhui.mp4
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/bjws.jpg" group-title="2>CN卫视", 北京卫视
+http://{hostname}:{port}/btv1.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 重庆卫视
+http://{hostname}:{port}/chongqing.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 东方卫视
+http://{hostname}:{port}/dongfang.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 东南卫视
+http://{hostname}:{port}/dongnan.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 广东卫视
+http://{hostname}:{port}/guangdong.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 广西卫视
+http://{hostname}:{port}/guangxi.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 甘肃卫视
+http://{hostname}:{port}/gansu.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 贵州卫视
+http://{hostname}:{port}/guizhou.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 河北卫视
+http://{hostname}:{port}/hebei.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 河南卫视
+http://{hostname}:{port}/henan.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 黑龙江卫视
+http://{hostname}:{port}/heilongjiang.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 湖北卫视
+http://{hostname}:{port}/hubei.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 吉林卫视
+http://{hostname}:{port}/jilin.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 江西卫视
+http://{hostname}:{port}/jiangxi.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 康巴卫视
+http://{hostname}:{port}/kangba.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 辽宁卫视
+http://{hostname}:{port}/liaoning.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 旅游卫视
+http://{hostname}:{port}/travel.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 内蒙古卫视
+http://{hostname}:{port}/neimenggu.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 宁夏卫视
+http://{hostname}:{port}/ningxia.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 青海卫视
+http://{hostname}:{port}/qinghai.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 山东卫视
+http://{hostname}:{port}/shandong.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 山东教育台
+http://{hostname}:{port}/sdetv.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 深圳卫视
+http://{hostname}:{port}/shenzhen.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 陕西卫视
+http://{hostname}:{port}/shan3xi.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 山西卫视
+http://{hostname}:{port}/shan1xi.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 四川卫视
+http://{hostname}:{port}/sichuan.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 天津卫视
+http://{hostname}:{port}/tianjin.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 西藏卫视
+http://{hostname}:{port}/xizang.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 厦门卫视
+http://{hostname}:{port}/xiamen.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 新疆卫视
+http://{hostname}:{port}/xinjiang.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 香港卫视
+http://{hostname}:{port}/xianggangweishi.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 延边卫视
+http://{hostname}:{port}/yanbian.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 云南卫视
+http://{hostname}:{port}/yunnan.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 浙江卫视
+http://{hostname}:{port}/zhejiang.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", CCTV中学生
+http://{hostname}:{port}/zhongxuesheng.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", CCTV新科动漫
+http://{hostname}:{port}/xinkedongman.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", CCTV电视指南
+http://{hostname}:{port}/zhinan.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", BTV文艺
+http://{hostname}:{port}/btv2.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", BTV科教
+http://{hostname}:{port}/btv3.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", BTV影视
+http://{hostname}:{port}/btv4.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", BTV财经
+http://{hostname}:{port}/btv5.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", BTV体育
+http://{hostname}:{port}/btv6.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", BTV生活
+http://{hostname}:{port}/btv7.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", BTV青少
+http://{hostname}:{port}/btv8.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", BTV新闻
+http://{hostname}:{port}/btv9.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 滨海新闻综合
+http://{hostname}:{port}/tianjinbh.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 滨海综艺频道
+http://{hostname}:{port}/tianjinbh2.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 广西综艺
+http://{hostname}:{port}/gxzy.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 潮州综合
+http://{hostname}:{port}/cztv1.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 潮州公共
+http://{hostname}:{port}/cztv2.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 佛山新闻综合
+http://{hostname}:{port}/foshanxinwen.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 韶关综合
+http://{hostname}:{port}/shaoguanzonghe.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 珠海一套
+http://{hostname}:{port}/zhuhaiyitao.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 珠海二套
+http://{hostname}:{port}/zhuhaiertao.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 成都新闻综合
+http://{hostname}:{port}/cdtv1.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 成都公共
+http://{hostname}:{port}/cdtv5.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 大连一套
+http://{hostname}:{port}/daliannews.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 湖北公共
+http://{hostname}:{port}/hubeigonggong.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 湖北教育
+http://{hostname}:{port}/hubeijiaoyu.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 湖北影视
+http://{hostname}:{port}/hubeiyingshi.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 湖北经视
+http://{hostname}:{port}/hubeijingshi.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 荆州新闻频道
+http://{hostname}:{port}/jznews.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 湖北垄上频道
+http://{hostname}:{port}/jzlongs.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 襄阳广播电视台
+http://{hostname}:{port}/xiangyangtai.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 维语新闻综合
+http://{hostname}:{port}/xjtv2.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 哈语新闻综合
+http://{hostname}:{port}/xjtv3.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 维语综艺
+http://{hostname}:{port}/xjtv5.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 哈语综艺
+http://{hostname}:{port}/xjtv8.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 维语经济生活
+http://{hostname}:{port}/xjtv9.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 石家庄三套
+http://{hostname}:{port}/shijiazhuangsantao.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 邢台综合
+http://{hostname}:{port}/xingtaizonghe.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 邢台生活
+http://{hostname}:{port}/xingtaishenghuo.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 邢台公共
+http://{hostname}:{port}/xingtaigonggong.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 邢台沙河
+http://{hostname}:{port}/xingtaishahe.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 济南新闻
+http://{hostname}:{port}/jinannews.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 丽江综合频道
+http://{hostname}:{port}/lijiangnews.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 丽江公共频道
+http://{hostname}:{port}/lijiangpublic.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 蒙语频道
+http://{hostname}:{port}/neimenggu2.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 南京新闻
+http://{hostname}:{port}/nanjingnews.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 南通新闻频道
+http://{hostname}:{port}/nantongxinwen.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 南通社教频道
+http://{hostname}:{port}/nantongshejiao.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 宁波一套
+http://{hostname}:{port}/nbtv1.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 宁波二套
+http://{hostname}:{port}/nbtv2.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 宁波三套
+http://{hostname}:{port}/nbtv3.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 宁波四套
+http://{hostname}:{port}/nbtv4.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 宁波五套
+http://{hostname}:{port}/nbtv5.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 上海新闻综合
+http://{hostname}:{port}/shnews.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 厦门一套
+http://{hostname}:{port}/xiamen1.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 厦门二套
+http://{hostname}:{port}/xiamen2.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 厦门三套
+http://{hostname}:{port}/xiamen3.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 厦门四套
+http://{hostname}:{port}/xiamen4.mp4
+
+#EXTINF:-1 group-title="2>CN卫视", 西安新闻
+http://{hostname}:{port}/xiannews.mp4
